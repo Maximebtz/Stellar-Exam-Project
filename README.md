@@ -1,6 +1,8 @@
 # Stellar
 Stellar est un site de de location d'hébergements atypiques, avec la possibilité de réserver des logements sur un calendrier fait avec bootstrap datepicker !
-Nous avons aussi la possibilité de payer avce Stripe, une logique à été faite pour que 5% aillent à Stellar et le reste au propriétaire, le propriétaire doit à donc un bouton qui s'affiche pour se créer un compte stripe si il n'a pas encore de logements actifs !
+Nous avons aussi la possibilité de payer avce Stripe, une logique à été faite pour que 5% aillent à Stellar et le reste au propriétaire, le propriétaire doit à donc un bouton qui s'affiche pour se créer un compte stripe si il n'a pas encore de logements actifs ! <br>
+
+Un Admin à la possibilité de gérer les annonces qui ont étés signalées par un utilisateur.
 
 PS : Stellar est mon projet de fin d'année, le projet n'étant pas terminé, les images suivantes sont provisoires (tout à été passé entièrement en français).
 
